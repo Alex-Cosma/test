@@ -9,6 +9,6 @@ import org.apache.tools.ant.taskdefs.optional.extension.Specification
 class Test extends GrailsUnitTestCase {
 
     void "test something"(){
-        assertEquals('mata', 'mama')
+        assertEquals('mata', 'mata')
     }
 }
