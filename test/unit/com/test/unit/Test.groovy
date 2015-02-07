@@ -11,4 +11,14 @@ class Test extends GrailsUnitTestCase {
     void "test something"(){
         assertEquals('mata', 'mata')
     }
+
+    void "test some more"(){
+        assertTrue(false)
+    }
+
+    void "test some moroe"(){
+        assertTrue(true)
+    }
+
+
 }
